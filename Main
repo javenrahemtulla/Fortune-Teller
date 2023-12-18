@@ -1,0 +1,7 @@
+// This is for the JS Console
+
+var responses = ["Yes","No","Maybe","You Tell Me","Definetley not","In your dreams, but not in reality","Probably not","Well, unfortunetly, no
+","You expect me to know?","Yeahh, no","You think you are so smart","You will be dead before that happens","HECK NO","Bruh.. really?", "Oh yes", "Sorry, but yes","Well, yeaaaah","Oh no no, no no no no
+"];
+// Now you can think of a question, and enter the command below to get a response
+responses [Math.floor (Math.random () * 18)];
